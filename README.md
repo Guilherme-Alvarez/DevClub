@@ -3,7 +3,10 @@
 <br>
 <br>
 
-<p>Esse prjeto foi o primeiro onde eu fiz responsivél:</p>
+<p>-Esse projeto foi o primeiro onde eu fiz responsivél:</p>
 <br>
 
-<img
+<img src="https://github.com/Guilherme-Alvarez/DevClub/blob/master/Assets/DesafioCss.png?raw=true" />
+<br>
+<br>
+< img src="
